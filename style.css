@@ -65,7 +65,8 @@ table {
 @font-face {
     font-family: 'amethyst';
     src: url('amethyst-webfont.woff2') format('woff2'),
-         url('amethyst-webfont.woff') format('woff');
+         url('amethyst-webfont.woff') format('woff'),
+				 url('Amethyst.tff') format('tff');
     font-weight: normal;
     font-style: normal;
 }
