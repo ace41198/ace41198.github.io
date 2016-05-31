@@ -191,10 +191,25 @@ nav ul li:hover {
   background-color: rgb(102, 102, 102);
   text-align: center;
 }
+#home-proj-wrap {
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
 #home-projects img {
   padding: 2%;
   width: 20%;
   height: 215px;
+}
+#home-projects p {
+	font-size: 1.5em;
+	color: black;
+	font-weight: bold;
+}
+#home-projects a {
+	color: black;
 }
 
 /*--------------------------------------------------------------
